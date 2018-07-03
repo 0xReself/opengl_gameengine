@@ -1,0 +1,1 @@
+-IE:/Engine/include -IE:/Engine/GLAD/include -IE:/Engine/glm/include -IE:/Engine/dependencies/GLFW/include -IE:/Engine/dependencies/GLFW/src -IE:/Engine/cmake-build-debug/dependencies/GLFW/src 
